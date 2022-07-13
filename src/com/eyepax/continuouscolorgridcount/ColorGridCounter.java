@@ -84,6 +84,7 @@ public class ColorGridCounter {
 
 			System.out.println();
 		}
+
 	}
 
 }
